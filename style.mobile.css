@@ -1,0 +1,38 @@
+@media screen and (max-width: 767px) {
+    .container {
+        width: 95%;
+    }
+    
+    header h1 {
+        font-size: 30px;
+    }
+
+    header img {
+        height: 100px;
+    }
+
+    thead th {
+        font-size: 19px;
+    }
+
+    form {
+        display: block;
+    }
+
+    form input {
+        margin-bottom: 2px solid #000;
+    }
+
+    #nome-atividade {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    #nota-atividade {
+        width: 30%;
+    }
+
+    form button {
+        width: 68.70%;
+    }
+}
